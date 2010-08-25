@@ -1,0 +1,5 @@
+﻿- Tạo mask hiển thị nội dung
+- Tạo MovieClip Scrollbar có 2 MovieClip: scroller (thanh trượt) và track (nền), kích thước track = kích thước Mask
+- Linkage tới class Scrollbar có sẵn.
+- Kéo vào đặt là sb.
+- Gọi hàm init: sb.init(mc_popup_content, "easeOutBack",2,true,2);
