@@ -1,0 +1,4 @@
+﻿- Dùng để tạo hiệu ứng lật trang đơn giản
+- Nội dung cuốn sách nằm trong MovieClip Content, mỗi trang là 1 frame
+- Muốn tạo 1 button link tới trang khác thì tạo MovieClip đặt tên là goto_x (x là vị trí frame)
+- Tạo addChild(pageFlip = new PageFlip(ContentMc, 150, 200));
