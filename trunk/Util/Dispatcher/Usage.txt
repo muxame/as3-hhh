@@ -1,0 +1,9 @@
+﻿- Dùng để dispatch 1 event cho thàng khác mà ko cần biết cấp độ cũng như vị trí event
+- Cách sử dụng:
+	+ Thằng dispatch:
+		var dispatcher:Dispatcher = new Dispatcher();
+		function test(e:MouseEvent):void {
+		  dispatcher.dispatchEvent(e);
+		};
+	+ Thằng nhận:
+		dispatcher.addEventListener(MouseEvent.CLICK, onTest);
