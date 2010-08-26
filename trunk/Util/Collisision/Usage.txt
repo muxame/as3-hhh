@@ -1,0 +1,2 @@
+﻿- Dùng để check collision 2 object là DisplayObject
+- Gọi hàm collisiondetection.getCollision(target1_mc,target2_mc); trả về 1 Rectangle, if Rectangle đó null là ko va chạm.
