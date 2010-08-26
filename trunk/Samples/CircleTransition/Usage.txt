@@ -1,0 +1,5 @@
+﻿- Dùng để tạo hiệu ứng các hình ảnh xoay vòng tròn
+- Tạo danh sách các hình (btn1-7)
+- Tạo biến var args: Object = new Object();
+args.mcs = [btn1, btn2, btn3, btn4, btn5, btn6, btn7];
+- Gán các tham số cho argc rồi tạo new CircleTransition(args);

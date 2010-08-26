@@ -1,0 +1,3 @@
+﻿- Dùng để tạo 1 danh sách các MovieClip thay đổi vị trí cho nhau khi dc chọn
+- Tạo 1 danh sách các MovieClip (page1-4)
+- Gọi new SwitchMCTransition([page1, page2, page3, page4]);
