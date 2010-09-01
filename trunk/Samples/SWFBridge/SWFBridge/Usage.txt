@@ -1,0 +1,8 @@
+﻿- Dùng để kết nối file AS2 và AS3
+	var sb1 = new SWFBridgeAS2("test",this);
+	var sb2 = new SWFBridgeAS2("test",this);
+
+AS2:
+	function mysetCurrentPage(page:Number) { }
+AS3:
+	sb1.send("mysetCurrentPage", page); 
