@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<Image id="001" type="1" link="" thumbSrc="images/thumbs/001.jpg" mediumImgSrc="images/medium/001.jpg" bigImgSrc="images/big/001.jpg" />
+	<Image id="002" type="2" link="" thumbSrc="images/thumbs/001.jpg" mediumImgSrc="images/medium/001.jpg" bigImgSrc="images/big/001.jpg" />
+	<Image id="003" type="2" link="" thumbSrc="images/thumbs/001.jpg" mediumImgSrc="images/medium/001.jpg" bigImgSrc="images/big/001.jpg" />
+	<Image id="004" type="1" link="" thumbSrc="images/thumbs/001.jpg" mediumImgSrc="images/medium/001.jpg" bigImgSrc="images/big/001.jpg" />
+	<Image id="005" type="3" link="" thumbSrc="images/thumbs/001.jpg" mediumImgSrc="images/medium/001.jpg" bigImgSrc="images/big/001.jpg" />
+	<Image id="006" type="1" link="" thumbSrc="images/thumbs/001.jpg" mediumImgSrc="images/medium/001.jpg" bigImgSrc="images/big/001.jpg" />
+</data>
